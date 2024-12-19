@@ -1,0 +1,14 @@
+2024-12-18 22:03:02,805 - INFO - CSV-fil 'hotel_bookings.csv' har lästs in framgångsrikt.
+2024-12-18 22:03:02,827 - INFO - Data har bearbetats. Filtrerat på 'adults > 10' och lagt till 'total_guests'.
+2024-12-18 22:03:02,893 - INFO - Bearbetad data har sparats till SQL-tabellen 'hotel_bookings_filtered'.
+2024-12-18 22:03:02,894 - INFO - Programkörningen har avslutats.
+2024-12-19 15:06:17,621 - INFO - Startar databehandling.
+2024-12-19 15:06:41,379 - INFO - Startar databehandling.
+2024-12-19 15:20:39,348 - INFO - Data har lästs in från CSV-filen.
+2024-12-19 15:20:39,421 - INFO - 118983 rader har filtrerats baserat på villkoren.
+2024-12-19 15:20:40,876 - INFO - Bearbetad data har sparats till SQL-tabellen "hotel_bookings_filtered".
+2024-12-19 15:25:45,421 - INFO - Data har bearbetats och sparats.
+2024-12-19 15:26:09,122 - INFO - Startar databehandling.
+2024-12-19 15:26:13,199 - INFO - Data har bearbetats och sparats.
+2024-12-19 15:27:14,823 - INFO - Startar databehandling.
+2024-12-19 15:27:17,407 - INFO - Data har bearbetats och sparats.
