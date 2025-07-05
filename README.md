@@ -21,7 +21,11 @@ Detta projekt är en del av kursen *Data Science* och syftar till att bygga ett 
 
 📁 projektmapp/
 ├── hotel_bookings.csv Rådata som CSV
+
 ├── hotel_bookings.db# SQLite-databas
+
 ├── hotel_bookings.log # Loggfil för fel
+
 ├── uppgiften.py # Huvudflödet: läsning, bearbetning, uppdatering
+
 └── README.md # Denna fil
